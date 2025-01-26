@@ -1,0 +1,23 @@
+{
+	"...": {
+		"0": {
+			"cell": "",
+			"classes": {
+				"pos": {
+					"the function ...": "correct_parameters_and_calculation:bool",
+					"a function ...": "correct_function_operations:bool"
+				},
+				"neg": {
+					"no function ...": "incorrect_function_name:bool",
+					"the script ...": "incorrect_language:bool",
+					"...": "return_no_value:bool",
+					"...": "...:bool",
+					"...": "...:bool",
+					"...": "...:bool",
+					"...": "...:bool"
+				}
+			},
+			"descr": "In this exercise, ..."
+		}
+	}
+}
