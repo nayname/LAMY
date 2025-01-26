@@ -18,6 +18,8 @@ For instance, consider two automatically generated checks compared to a baseline
 | Baseline| 0.23 | 1
 | IAMY | 0.95 | 0.41
 
+## To start:
+You require a small labeled dataset consisting of no more than a few hundred items.
 
 ## Interface example:
 
