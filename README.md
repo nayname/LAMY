@@ -2,7 +2,7 @@
 
 
 
-With IAMY, you can configure your preferred parameters, and IAMY will generate LLM pipelines tailored to meet your specified target metrics иbased on your labeled data.
+With IAMY, you can configure your preferred parameters, and IAMY will generate LLM pipelines tailored to meet your specified target metrics based on your labeled data.
 
 For instance, consider two automatically generated checks compared to a baseline request (which includes only the description of the exercise) along with their corresponding precision and recall parameters:
 
